@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .card{
+        @apply bg-blue-50 p-4 rounded-lg shadow-lg w-70;
+    }
+}
